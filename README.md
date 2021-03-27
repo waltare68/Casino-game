@@ -1,2 +1,3 @@
-# Casino-game
- blackjack game
+do a composer install
+
+
